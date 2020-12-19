@@ -1,0 +1,26 @@
+.center {
+  margin: 0 auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.row {
+  width: 100%;
+}
+
+.hide {
+  display: none;
+}
+
+#results {
+  color: red;
+}
