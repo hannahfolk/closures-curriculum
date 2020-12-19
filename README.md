@@ -27,6 +27,9 @@ Make sure you have a solid understanding of the following concepts before diving
 
 * Lexical Scope
 * Nested Functions
+* Closures
+* Use Cases for Closures
+* Private Variables and Functions
 
 ## Resources
 
